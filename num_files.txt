@@ -4,3 +4,6 @@ file3.txt
 file4.txt 
 file5.txt 
 file6.txt
+guessinggame.sh
+num_files.txt
+makefile
